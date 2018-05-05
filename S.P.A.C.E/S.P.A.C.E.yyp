@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "3cb751c8-6617-4d21-b9b5-4c62064419da",
+            "Value": {
+                "id": "54ec2fcc-ab2d-47d8-8989-ac6c95bf3899",
+                "resourcePath": "sprites\\s_monspacebackground\\s_monspacebackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ff28f97-bd1e-4dfd-8283-6461566f4f55",
             "Value": {
                 "id": "68a02984-34a4-4dc3-b3fc-15075bc63267",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "98c8b930-aa9b-488d-a506-84c7445c0af7",
+            "Value": {
+                "id": "6361253e-7ec2-4db0-ba06-7d06209f2082",
+                "resourcePath": "rooms\\rm_titlescreen\\rm_titlescreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9b3aea39-9641-46e5-9d4f-49fdc4fd75e3",
             "Value": {
                 "id": "75f6f092-4552-4ba8-9da8-8a14e192903c",
@@ -220,6 +236,22 @@
                 "id": "af9a720e-98eb-42d7-8e54-9a28d9e3fd59",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d18092ea-af72-452d-8aa6-987bf2475081",
+            "Value": {
+                "id": "541d67df-30d5-4deb-bcdb-426106cd87c7",
+                "resourcePath": "sprites\\s_warningicons\\s_warningicons.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd649bee-7d09-4aeb-b341-d5a39a8e95b5",
+            "Value": {
+                "id": "218fdf5f-e228-42e7-ab2e-703a5d208dfa",
+                "resourcePath": "objects\\o_controller\\o_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
